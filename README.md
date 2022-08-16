@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![foto pokemon](/pokemon.jpg)
 <!--
 **azrielsaputra/azrielsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
